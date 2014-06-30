@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Dreux
- *
- */
-package IHM;
-
